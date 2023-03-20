@@ -3,7 +3,7 @@
 
 ## Description
 
-
+I was given a website to refactor. The point was to see how it works in HTML and CSS. Like just the slightest change in a character or can switch up the whole page layout. My task was to change things in the code that would not impact the website's look.
 
 
 ## Table of Contents
@@ -24,11 +24,11 @@ or just vist the website:
 
 ## Usage
 
-
+To use this app just go to the deployed website or clone this repository.
 
 ## Roadmap
 
-Down the road, I would like to add 
+Down the road, I would like to change more things on this website. 
 
 
 ## Contributing
